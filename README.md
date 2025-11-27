@@ -1,2 +1,2 @@
-# Integracion-crib-sentiel-con-terraform
-Se muestra la integración de cribl y sentinel de microsoft por medio de la herramienta de terraform.
+# Terraform-cribl-sentinel-iac
+Despliegue de infraestructura como código (IaC) para integrar Cribl Stream con Microsoft Sentinel utilizando Terraform. Incluye configuración de conectores y reglas.
